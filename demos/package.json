@@ -1,0 +1,29 @@
+{
+  "name": "ndc",
+  "version": "1.0.0",
+  "description": "NDC Promises Demo",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.12.4",
+    "gulp": "^3.8.11"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.7.6",
+    "del": "^1.2.0",
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.1.0",
+    "gulp-if": "^1.2.5",
+    "gulp-jscs": "^1.6.0",
+    "gulp-jshint": "^1.11.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-nodemon": "^2.0.3",
+    "gulp-print": "^1.1.0",
+    "jshint-stylish": "^2.0.0",
+    "yargs": "^3.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Paulin",
+  "license": "ISC"
+}
